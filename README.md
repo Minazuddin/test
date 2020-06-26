@@ -4,7 +4,7 @@
   
   <head>
 
-      <title>My first page
+      <title>My first page</title>
 
   </head>
   
